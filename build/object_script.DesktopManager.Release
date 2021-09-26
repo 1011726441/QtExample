@@ -1,0 +1,13 @@
+release/background.o
+release/config.o
+release/main.o
+release/mainwindow.o
+release/mousehook.o
+release/settings.o
+release/thumbnailimg.o
+release/win32.o
+release/qrc_resource.o
+release/moc_background.o
+release/moc_mainwindow.o
+release/moc_settings.o
+release/moc_thumbnailimg.o

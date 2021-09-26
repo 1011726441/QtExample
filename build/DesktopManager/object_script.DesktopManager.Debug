@@ -1,0 +1,13 @@
+debug/background.o
+debug/config.o
+debug/main.o
+debug/mainwindow.o
+debug/mousehook.o
+debug/settings.o
+debug/thumbnailimg.o
+debug/win32.o
+debug/qrc_resource.o
+debug/moc_background.o
+debug/moc_mainwindow.o
+debug/moc_settings.o
+debug/moc_thumbnailimg.o
